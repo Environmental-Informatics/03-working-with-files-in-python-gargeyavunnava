@@ -1,3 +1,16 @@
+"""
+Created on Sun Feb 02 13:50:40 2020
+Purdue account name: vvunnava
+Github account name: gargeyavunnava
+
+Program description:
+1. Reading text file describing the life time experimental data on a racoon.
+2. Modifying the read data into relevant data types to calculate differnt properties mention in the question.
+3. Writing all the info calculated in a new text file.
+
+Refer to meta data file 'READ.racoon.txt' for more info.
+"""
+
 import math
 
 # function to calculate mean of numbers in a list
