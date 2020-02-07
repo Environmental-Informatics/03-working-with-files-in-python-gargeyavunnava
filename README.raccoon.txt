@@ -1,3 +1,9 @@
+Input file required: 2008Male00006.txt
+Output file created: Georges_life.txt
+Python script file: Evaluate_Raccoon_Life.txt
+
+Script description below.
+
 ###############################################################################################
                         DESCRIPTION OF FUNCTIONS USED 
 ###############################################################################################
